@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import lombok.Data;
 
 @Entity
-@Table(name = "table")
+@Table(name = "vehicle")
 @Data
 public class Vehicle {
 
